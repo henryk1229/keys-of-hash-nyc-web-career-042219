@@ -1,5 +1,5 @@
 class Hash
-  def keys_of(arguments)
+  def keys_of(**)
     # code goes here
     array = []
     array.push(arguments)
